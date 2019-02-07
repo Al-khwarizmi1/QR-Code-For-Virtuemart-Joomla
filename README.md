@@ -1,0 +1,2 @@
+# QR-Code-For-Virtuemart-Joomla
+The QR code - a 2D bar code read by smartphones is becoming an essential business promotional tool. Major Brands have already started embracing the QR code in their marketing campaigns. By incorporating the QR code to a product, the potential buyers who wish to purchase on the go can simply scan the QR codes with their smartphones which eventually leads them to your website.
