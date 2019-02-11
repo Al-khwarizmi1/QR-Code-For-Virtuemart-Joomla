@@ -1,0 +1,42 @@
+/**
+ * @name        QR code for Virtuemart
+ * @version	1.1: qrcode.css
+ * @since       Joomla 1.5
+ * @subpackage	com_QRcode
+ * @author      Apptha
+ * @copyright   Copyright (C) 2011 Powered by Apptha
+ * @license     GNU/GPL http://www.gnu.org/copyleft/gpl.html
+ * @abstract    Css styling for front end styling
+ */
+
+ol, ul{list-style:none}
+.floatleft{float:left}
+.floatright{float:right;margin-top: 0px;}
+
+.Err{font-size: 12px;font-weight: normal;color:red}
+.fieldset {border: 1px solid #666;background: #EDEDED;padding: 22px 25px 25px 25px;margin: 24px 0 10px 0;}
+.fieldset .legend {float: left;font-weight: bold;font-size: 13px;border: 1px solid #535353;background: #666;color: white;margin: -33px 0 0 -10px;padding: 0 8px;position: relative;}
+.send-friend {margin-top: 45px;}
+.send-friend .form-list {width: 548px;overflow: hidden;}
+.send-friend .form-list li {margin-right: -15px;}
+.send-friend .form-list .field {width: 315px;margin: 10px 0;}
+.send-friend .form-list .input-box {width: 300px;}
+.send-friend .form-list input.input-text, .send-friend .form-list textarea {width: 294px;}
+.send-friend .form-list li.wide .input-box {width: 612px;}
+.send-friend .form-list li.wide textarea {width: 546px;height: 10em;overflow: auto;}
+
+#qrcode_submenu {margin:0px !important;padding:0px !important;}
+#qrcode_submenu li {float:left !important;list-style:none outside none !important;}
+#qrcode_submenu li:last-child a{border: medium none;}
+#qrcode_submenu a {border-right: 1px solid #CCCCCC;cursor: pointer;font-size: 1.2em;font-weight: bold;height: 12px;line-height: 14px;padding: 0 15px;}
+#qrcode_submenu .active{color:black !important;text-decoration:none !important;}
+
+#productListQrcode{margin-right:10px;margin-bottom:20px;}
+#selectList{margin-top: 20px;margin-bottom:20px;}
+
+.adminlist{margin-top: 10px;}
+
+#settingsQrcode{margin:10px;}
+#generateButton,#searchProduct {border: 1px solid silver; padding:1px 5px; background-color: #ece9d8; color:#000; text-decoration: none;}
+#clearSearch{cursor: pointer;}
+
